@@ -28,9 +28,12 @@
 ---
 
 ## 🌟 Sneak Peek  
-Here’s an example visualization from the project *(add your graph screenshot here)*:  
+Here’s an example visualization from the project :  
 
-![House Prices Plot](assets/house_prices.png)  
+<img width="1728" height="1080" alt="Screenshot 2025-08-18 at 3 04 01 PM" src="https://github.com/user-attachments/assets/b97863ea-c915-43a5-ac41-b76888bdb1b5" />
+
+<img width="1612" height="776" alt="Screenshot 2025-08-18 at 3 04 47 PM" src="https://github.com/user-attachments/assets/520a6144-8183-4af7-9d4e-d0f3862a9d57" />
+
 
 ---
 
