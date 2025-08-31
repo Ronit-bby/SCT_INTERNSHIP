@@ -63,3 +63,17 @@ plt.show()
 # Step 9: Cluster Profiles
 print("\nCluster Profiles (Mean values):")
 print(df.groupby('Cluster')[['Age', 'Annual Income (k$)', 'Spending Score (1-100)']].mean())
+
+
+
+
+# Expected output
+
+# Cluster Profiles (Mean values):
+#                Age  Annual Income (k$)  Spending Score (1-100)
+# Cluster                                                       
+# 0        55.345455           56.709091               51.236364
+# 1        28.115789           61.747368               48.568421
+# 2        25.521739           26.304348               78.565217
+# 3        55.500000           30.428571               16.000000
+# 4        32.307692           26.538462               30.307692
