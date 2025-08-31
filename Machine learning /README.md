@@ -1,3 +1,4 @@
+
 # 🏡 Machine Learning Scripts - SCT Internship
 
 > 🚀 My **first internship ML project** — predicting California house prices using **20,640 real housing records** and customer segmentation analysis!
