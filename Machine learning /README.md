@@ -87,7 +87,7 @@ This directory contains two machine learning scripts that demonstrate different 
 
 ### California Housing Price Prediction
 ```bash
-cd "Machine learning /Task1_California_Housing"
+cd "Machine learning /SCT_ML_1"
 source .venv/bin/activate
 python3 SCT_ML_1.py
 ```
@@ -101,7 +101,7 @@ python3 SCT_ML_1.py
 
 ### Customer Segmentation
 ```bash
-cd "Machine learning /Task2_Customer_Segmentation"
+cd "Machine learning /SCT_ML_2"
 source .venv/bin/activate
 python3 SCT_ML_2.py
 ```
@@ -118,11 +118,11 @@ python3 SCT_ML_2.py
 
 ```
 Machine learning/
-├── Task1_California_Housing/
+├── SCT_ML_1/
 │   ├── SCT_ML_1.py          # California housing price prediction script
 │   ├── requirements.txt     # Python dependencies
 │   └── README.md           # Task 1 documentation
-├── Task2_Customer_Segmentation/
+├── SCT_ML_2/
 │   ├── SCT_ML_2.py         # Customer segmentation script
 │   ├── Mall_Customers.csv  # Customer dataset (200 records)
 │   ├── requirements.txt    # Python dependencies
