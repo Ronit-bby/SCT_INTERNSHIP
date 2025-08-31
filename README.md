@@ -1,2 +1,2 @@
 # SCT_INTERNSHIP
-Machine learning projects 
+yet to come checkout the readme for indivisual projects 
