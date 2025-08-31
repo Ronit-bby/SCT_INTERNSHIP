@@ -87,6 +87,7 @@ This directory contains two machine learning scripts that demonstrate different 
 
 ### California Housing Price Prediction
 ```bash
+cd "Machine learning /Task1_California_Housing"
 source .venv/bin/activate
 python3 SCT_ML_1.py
 ```
@@ -100,6 +101,7 @@ python3 SCT_ML_1.py
 
 ### Customer Segmentation
 ```bash
+cd "Machine learning /Task2_Customer_Segmentation"
 source .venv/bin/activate
 python3 SCT_ML_2.py
 ```
@@ -112,13 +114,22 @@ python3 SCT_ML_2.py
 
 ---
 
-## 📁 Files Description
+## 📁 Project Structure
 
-- `SCT_ML_1.py` - California housing price prediction script
-- `SCT_ML_2.py` - Customer segmentation script
-- `Mall_Customers.csv` - Customer dataset for segmentation
-- `requirements.txt` - Python dependencies
-- `README.md` - This documentation file
+```
+Machine learning/
+├── Task1_California_Housing/
+│   ├── SCT_ML_1.py          # California housing price prediction script
+│   ├── requirements.txt     # Python dependencies
+│   └── README.md           # Task 1 documentation
+├── Task2_Customer_Segmentation/
+│   ├── SCT_ML_2.py         # Customer segmentation script
+│   ├── Mall_Customers.csv  # Customer dataset (200 records)
+│   ├── requirements.txt    # Python dependencies
+│   └── README.md          # Task 2 documentation
+├── requirements.txt        # Main dependencies file
+└── README.md              # This main documentation file
+```
 
 ---
 
