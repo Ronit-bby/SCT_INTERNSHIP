@@ -8,7 +8,7 @@ from sklearn.cluster import KMeans
 from mpl_toolkits.mplot3d import Axes3D
 
 # Step 1: Load dataset
-df = pd.read_csv("Mall_Customers.csv")
+df = pd.read_csv("SCT_ML_2/Mall_Customers.csv")
 
 # Step 2: Select Features (Age, Income, Spending Score)
 X = df[['Age', 'Annual Income (k$)', 'Spending Score (1-100)']]
