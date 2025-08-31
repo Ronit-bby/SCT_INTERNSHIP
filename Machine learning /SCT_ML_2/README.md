@@ -73,9 +73,12 @@ This project implements customer segmentation using K-Means clustering to identi
 ## 🎯 Running the Script
 
 ```bash
+cd "Machine learning /SCT_ML_2"
 source .venv/bin/activate
 python3 SCT_ML_2.py
 ```
+
+**Important**: Make sure to run the script from within the SCT_ML_2 directory so it can find the Mall_Customers.csv file.
 
 ### **Expected Output:**
 1. **Elbow Method Plot**: Shows optimal number of clusters (K=5)
